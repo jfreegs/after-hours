@@ -1,4 +1,13 @@
-header {
-    background: #000000;
-    padding: 30px 30px;
-}
+*{
+    margin:0;
+  }
+  header{
+    background-color:black;
+    padding: 30px 30px
+  }
+  h1{
+    color:white;
+  }
+  section{
+    padding:10px 30px;
+  }
